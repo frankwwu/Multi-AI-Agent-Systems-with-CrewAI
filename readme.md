@@ -16,7 +16,7 @@ Learn from João Moura, founder and CEO of crewAI, and explore key components of
 
 * __Role-playing__: Assign specialized roles to agents 
 * __Memory__: Provide agents with short-term, long-term, and shared memory
-* __Toolsv: Assign pre-built and custom tools to each agent (e.g. for web search)
+* __Toolsv:__ Assign pre-built and custom tools to each agent (e.g. for web search)
 * __Focus__: Break down the tasks, goals, and tools and assign to multiple AI agents for better performance
 * __Guardrails__: Effectively handle errors, hallucinations, and infinite loops
 * __Cooperation__: Perform tasks in series, in parallel, and hierarchically
